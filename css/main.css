@@ -29,24 +29,24 @@ html {
 }
 
 .polaroid:first-child {
- -webkit-transform: rotate(-15deg);
- z-index: 1;
- left: 20%;
- top: 5.5em;
+  -webkit-transform: rotate(-15deg);
+  left: 20%;
+  top: 6em;
+  z-index: 1;
 }
 
 .polaroid:nth-child(2) {
- -webkit-transform: rotate(5deg);
- z-index: 3;
- left: 30%;
- top: 10em;
+  -webkit-transform: rotate(5deg);
+  z-index: 3;
+  left: 30%;
+  top: 9.5em;
 }
 
 .polaroid:nth-child(3) {
- -webkit-transform: rotate(31deg);
- z-index: 2;
- left: 40%;
- top: 4.5em;
+  -webkit-transform: rotate(31deg);
+  z-index: 2;
+  left: 40%;
+  top: 6em;
 }
 
 .polaroid:hover {
